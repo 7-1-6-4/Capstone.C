@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699945267 source:c:\users\hp\desktop\clean copy(capstone bus management project)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
